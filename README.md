@@ -1,5 +1,7 @@
 # Catz-n-Dogz
 
+<img width="805" alt="Screen Shot 2021-09-02 at 3 07 40 PM" src="https://user-images.githubusercontent.com/53482411/132066656-c9cc9e4f-7c0f-4830-a588-c4fb3ea8b8bb.png">
+
 ## Description
 
 This is an app that allows users to post lost or found animals! 
