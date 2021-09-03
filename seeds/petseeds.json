@@ -1,0 +1,11 @@
+[
+    {
+    "pet_name": "Max",    
+    "sex": "Male",
+    "is_stray": "true",
+    "breed": "Pug",
+    "animal_id": 1,
+    "description": "Found this Dog on running around in my neighborhood",
+    "filename": "http://res.cloudinary.com/catz-n-dogz/image/upload/v1630551995/aenmj0643dqowhmef5zz.png"
+}
+]

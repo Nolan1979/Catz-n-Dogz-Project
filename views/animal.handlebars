@@ -1,0 +1,8 @@
+<section class="container">
+    <h3 class="animal-name">{{animal.animal_name}}</h3>
+    <section class="flex-row justify-center">
+        {{#each pet.posts as |post|}}
+        {{> pet-details}}
+        {{/each}}
+    </section>
+</section>
